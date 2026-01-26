@@ -1,0 +1,12 @@
+# Ignore the compiled executables
+out
+test
+*.exe
+*.o
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# If you use a build system later
+build/
